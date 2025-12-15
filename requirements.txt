@@ -1,0 +1,11 @@
+kokoro_onnx
+soundfile
+numpy
+PySide6
+pyaudio
+pyinstaller
+
+
+#  python -m venv kokoro
+#  Scripts\Activate     или    file\Scripts\Activate.ps1
+#  pip install -r requirements.txt
