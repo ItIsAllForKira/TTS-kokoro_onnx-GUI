@@ -1,4 +1,4 @@
-# Kokoro-ONNX Text-to-Speech (TTS)
+# Kokoro-ONNX Text-to-Speech (TTS) GUI
 
 **Local, offline English text-to-speech synthesizer** powered by **[Kokoro-ONNX](https://github.com/thewh1teagle/kokoro-onnx)**.  
 This desktop application converts typed or pasted English text into natural-sounding speech using a lightweight ONNX-based neural TTS model—**no internet required after initial setup**.
